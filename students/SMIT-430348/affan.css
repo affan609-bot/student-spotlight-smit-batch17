@@ -1,0 +1,86 @@
+ body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+    }
+    .navbar {
+      background: #333;
+      color: white;
+      padding: 15px 20px;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+    }
+
+    .logo {
+      font-size: 20px;
+      font-weight: bold;
+    }
+    .menu {
+      display: flex;
+      gap: 20px;
+    }
+
+    .menu a {
+      color: white;
+      text-decoration: none;
+      font-size: 16px;
+    }
+    .hero{
+        display: flex;
+        gap: 30px;
+        justify-content: space-around;
+    }
+    .btn{
+        color: #333;
+        background-color: aqua;
+    }
+    .btn a{
+        color: blue;
+        background-color: blueviolet;
+    }
+
+        .hero2{
+        display: flex;
+        gap: 30px;
+        justify-content: space-around;
+    }
+    .btn2{
+        color: #333;
+        background-color: aqua;
+    }
+    .btn2 a{
+        color: blue;
+        background-color: blueviolet;
+    }
+    .maindiv{
+        display: flex;
+    justify-content: center;
+gap: 100px;
+    }
+    .card1{
+        border: 1px solid black;
+
+    }
+    .img1{
+border-radius: 50%;
+height: 150px;
+width: 150px;
+border: 3px solid pink;
+    }
+
+
+        .maindiv2{
+        display: flex;
+    justify-content: center;
+gap: 100px;
+    }
+    .card11{
+        border: 1px solid black;
+
+    }
+    .img11{
+border-radius: 50%;height: 150px;
+width: 150px;
+border: 3px solid pink;
+    }
+
